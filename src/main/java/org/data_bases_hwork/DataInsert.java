@@ -41,7 +41,6 @@ public class DataInsert {
                         + accommodation.getBed_type() + " Max guests: " + accommodation.getMax_guests() + " Description: "
                         + accommodation.getDescription());
 
-
             }
         } catch (SQLException e) {
             System.err.format("SQ State: %s\n%s", e.getSQLState(), e.getMessage());

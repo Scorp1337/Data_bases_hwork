@@ -26,4 +26,5 @@ public class AccommodationRoomFairRelation {
         return room_fair_id;
     }
 
+
 }

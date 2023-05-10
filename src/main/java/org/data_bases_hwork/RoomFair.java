@@ -11,7 +11,6 @@ public class RoomFair {
         this.value = value;
         this.season = season;
     }
-
     public int getId() {
         return id;
     }

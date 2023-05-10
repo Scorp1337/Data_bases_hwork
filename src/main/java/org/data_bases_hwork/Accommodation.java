@@ -11,6 +11,7 @@ public class Accommodation {
 
     private String description;
 
+
     public Accommodation(int id, String type, String bed_type, int max_guests, String description) {
         this.id = id;
         this.type = type;
